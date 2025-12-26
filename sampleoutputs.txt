@@ -1,0 +1,14 @@
+Input:
+What is Artificial Intelligence?
+
+Output:
+Artificial Intelligence is the ability of machines to perform tasks
+that normally require human intelligence, such as learning and
+problem-solving.
+
+Input:
+What is Machine Learning?
+
+Output:
+Machine Learning is a part of AI that allows computers to learn from
+data and improve without being explicitly programmed.
